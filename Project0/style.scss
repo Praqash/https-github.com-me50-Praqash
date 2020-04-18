@@ -1,0 +1,21 @@
+$primary-color: #34fe21;
+
+p {
+  font-color: $primary-color;
+}
+
+nav {
+  ul {
+    margin: 2;
+    padding: 2;
+    list-style: none;
+  }
+  li {
+    display: inline-block;
+  }
+  a {
+    display: block;
+    padding: 8px 14px;
+    text-decoration: none;
+  }
+}

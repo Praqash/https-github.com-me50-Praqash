@@ -1,0 +1,17 @@
+p {
+  font-color: #34fe21;
+}
+
+nav ul {
+  margin: 2;
+  padding: 2;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 8px 14px;
+  text-decoration: none;
+}
